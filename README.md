@@ -1,0 +1,1 @@
+# scope-indent-guides.nvim
